@@ -7,3 +7,5 @@ Hello, the new branch in master
 Hello, world.
 
 solve the issue-001.
+
+solve the issue-002.
