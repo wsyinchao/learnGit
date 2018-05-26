@@ -9,3 +9,5 @@ Hello, world.
 solve the issue-001.
 
 solve the issue-002.
+
+develop a new func.
